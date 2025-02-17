@@ -8,3 +8,11 @@ cd Pure-pursuit-algorithm/
 pip install matplotlib
 python3 pure_pursuit_algorithm.py
 ```
+
+### Demo:
+
+###### with external disturbance(0-50N)  -
+<p align="center">
+
+<img src="https://github.com/salilnpatil/Pure-pursuit-algorithm/assets/pure-pursuit-algo.gif" width="300" height="200">
+</p>
