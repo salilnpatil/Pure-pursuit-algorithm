@@ -14,5 +14,5 @@ python3 pure_pursuit_algorithm.py
 ###### with external disturbance(0-50N)  -
 <p align="center">
 
-<img src="https://github.com/salilnpatil/Pure-pursuit-algorithm/assets/pure-pursuit-algo.gif" width="300" height="200">
+<img src="https://github.com/salilnpatil/Pure-pursuit-algorithm/blob/main/assets/pure-pursuit-algo.gif" width="300" height="200">
 </p>
