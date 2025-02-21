@@ -18,4 +18,4 @@ python3 pure_pursuit_algorithm.py
 
 ### References:
 - [Notes](https://www.ri.cmu.edu/pub_files/pub3/coulter_r_craig_1992_1/coulter_r_craig_1992_1.pdf)
-- [blog for referance](https://vinesmsuic.github.io/robotics-purepersuit/index.html)
+- [blog for reference](https://vinesmsuic.github.io/robotics-purepersuit/index.html)
